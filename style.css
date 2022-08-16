@@ -332,7 +332,7 @@ section:not(:last-child) {
 .card-body {
 }
 .card-title {
-    color: black;
+    color: rgb(0, 0, 0);
 }
 .card-title:hover {
     color: #4e4e4e;
