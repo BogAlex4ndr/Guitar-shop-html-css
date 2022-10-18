@@ -1,7 +1,7 @@
 let guitarCard = [
     {id: 1, title: 'The Essential Les Paul', price: '$1299.00', img: src='img/the_Essential_Les_Paul.png'},
     {id: 2, title: 'J-45 Standard', price: '$1699.00', img: src='img/j-45_standart.png'},
-    {id: 3, title: 'Hummingbird Standard', price: '$2099.00', img: src='img/hummingbird.png'},
+    {id: 3, title: 'Hummingbird Standard', price: '$2099.00', img: src='img/Hummingbird.png'},
 ]
 
 let guitarCardSecond = [
